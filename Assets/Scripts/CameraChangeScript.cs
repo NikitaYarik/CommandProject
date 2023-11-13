@@ -8,7 +8,7 @@ public class CameraChangeScript : MonoBehaviour
     [SerializeField] private GameObject man;
     [SerializeField] private GameObject Poop;
     
-    void FixedUpdate()
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.Keypad1))
         {
