@@ -9,6 +9,8 @@ public class MovementScript : MonoBehaviour
     private float hor;
     public float speed;
     public Transform trans_b;
+
+    [SerializeField] private Animator anim;
     void Start()
     {
         Trans = GetComponent<Transform>();
