@@ -562,12 +562,46 @@ Transform:
   m_Children: []
   m_Father: {fileID: 859087000}
   m_LocalEulerAnglesHint: {x: 26.173, y: 0, z: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1 &1245557988
+GameObject:
+=======
 --- !u!114 &963194229
 MonoBehaviour:
+>>>>>>> remotes/origin/main
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1245557989}
+  m_Layer: 0
+  m_Name: model
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1245557989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1245557988}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.3500004, y: 3.1666667, z: -0.30000123}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1151388028982819185}
+  m_Father: {fileID: 543450652993734697}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+=======
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -578,6 +612,9 @@ MonoBehaviour:
   trans: {fileID: 0}
   mouseX: 0
   mouseY: 0
+>>>>>>> remotes/origin/main
+=======
+>>>>>>> parent of 8027e54 (Сделал управление кахи и поменял плейн)
 --- !u!1001 &1297757222
 PrefabInstance:
   m_ObjectHideFlags: 0
